@@ -1,0 +1,17 @@
+{
+  "name": "ReadProjectsToggl",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-shell-spawn": "^0.3.0",
+    "grunt": "^0.4.5",
+    "purest": "^1.0.1",
+    "underscore": "^1.6.0"
+  }
+}
